@@ -28,4 +28,16 @@ import Foundation
 //
 //print(ans)
 
-
+let myLinkedList = LinkedList()
+myLinkedList.addAtTail(1)
+myLinkedList.addAtTail(2)
+myLinkedList.addAtTail(3)
+myLinkedList.addAtTail(4)
+myLinkedList.addAtTail(5)
+//let ans = findMiddleOfTheLinkedList(myLinkedList.head)
+let ans = reverseTheLinkedList(myLinkedList.head)
+var cur = ans
+while(cur != nil) {
+    print(cur!.value, terminator: "->")
+    cur = cur?.next
+}
