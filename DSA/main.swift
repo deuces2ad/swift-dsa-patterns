@@ -35,9 +35,12 @@ myLinkedList.addAtTail(3)
 myLinkedList.addAtTail(4)
 myLinkedList.addAtTail(5)
 //let ans = findMiddleOfTheLinkedList(myLinkedList.head)
-let ans = reverseTheLinkedList(myLinkedList.head)
-var cur = ans
-while(cur != nil) {
-    print(cur!.value, terminator: "->")
-    cur = cur?.next
-}
+//let ans = reverseTheLinkedList(myLinkedList.head)
+//var cur = ans
+//while(cur != nil) {
+//    print(cur!.value, terminator: "->")
+//    cur = cur?.next
+//}
+
+let ans = calcuateTheWordCharII("Hello World   ")
+print(ans)

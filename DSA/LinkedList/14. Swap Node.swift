@@ -9,7 +9,7 @@ import Foundation
 // 1->2->3->4->5
 // 1-> 3
 func swapNode(_ head: Node?) -> Node? {
-    let dummyNode = Node(value: <#T##Int#>)
+    let dummyNode = Node(value: 0)
     var prev: Node? = dummyNode
     prev?.next = head
     
