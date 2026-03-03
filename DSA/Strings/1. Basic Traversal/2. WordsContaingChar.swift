@@ -6,6 +6,7 @@
 //
 
 import Foundation
+//https://leetcode.com/problems/find-words-containing-character/
 func findWordsContaining( _ words: [String], _ x: Character) -> [Int] {
     var ans: [Int] = []
     let length = words.count - 1

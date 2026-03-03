@@ -6,7 +6,7 @@
 //
 
 import Foundation
-
+// https://leetcode.com/problems/jewels-and-stones/
 func numJewelsInStones(_ jewels: String, _ stones: String) -> Int {
     var count = 0
     for jewel in jewels {

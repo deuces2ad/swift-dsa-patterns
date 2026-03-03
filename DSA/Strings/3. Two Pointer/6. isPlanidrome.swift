@@ -6,6 +6,8 @@
 //
 
 import Foundation
+
+// https://leetcode.com/problems/valid-palindrome/
 func isPalindromeStr(_ s: String) -> Bool {
     
     var filteredStr = ""

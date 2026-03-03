@@ -6,7 +6,7 @@
 //
 
 import Foundation
-
+//https://leetcode.com/problems/length-of-last-word/description/
 //s = "Hello World  "
 func calcuateTheWordChar(_ s: String) -> Int {
 

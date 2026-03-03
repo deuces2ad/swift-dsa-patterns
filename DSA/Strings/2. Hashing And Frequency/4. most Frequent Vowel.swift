@@ -6,7 +6,7 @@
 //
 
 import Foundation
-
+// https://leetcode.com/problems/find-most-frequent-vowel-and-consonant/
 func maxFreqSum(_ s: String) -> Int {
     var dict: [Character: Int] = [:]
     var maxConsonentCount = 0

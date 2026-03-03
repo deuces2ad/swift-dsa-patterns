@@ -6,7 +6,7 @@
 //
 
 import Foundation
-
+// https://leetcode.com/problems/longest-common-prefix/
 func longestCommonPrefix(_ strs: [String]) -> String {
     if strs.isEmpty { return "" }
     let first = strs[0]
