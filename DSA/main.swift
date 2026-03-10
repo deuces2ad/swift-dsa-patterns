@@ -36,22 +36,5 @@ myLinkedList.addAtTail(4)
 myLinkedList.addAtTail(5)
 
 
-func remobeDuplicate( _ head: Node) -> Node? {
-    let node = Node(value: 0)
-    var dummy: Node? = node
-    dummy?.next = head
-    var curr: Node? = head
-    while (curr != nil) {
-        if curr?.next != nil && curr?.value == curr?.next?.value {
-            let dupl = curr?.value
-            while (curr != nil && curr?.value == dupl) {
-                curr = curr?.next
-            }
-            dummy = curr
-        } else {
-            dummy = curr
-            curr = curr?.next
-        }
-    }
-    return dummy?.next
-}
+let ans = isSubsequence("abc", "ahbgdc")
+print(ans)
