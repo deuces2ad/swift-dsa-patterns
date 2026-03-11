@@ -27,7 +27,7 @@ func reverseVowels( _ s: String) -> String {
     return String(arr)
 }
 
-private func isVowel(_  s: Character) -> Bool {
+ func isVowel(_  s: Character) -> Bool {
     switch s {
     case "a", "e", "i", "o", "u", "A", "E", "I", "O", "U":
         return true
