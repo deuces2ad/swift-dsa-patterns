@@ -69,7 +69,6 @@ class Solution {
         while right < sArray.count {
             let rightChar = sArray[right]
             need[rightChar, default: 0] += 1
-            need.removeValue(forKey: <#T##Character#>)
 
             if let needCount = need[rightChar], let haveCount = have[rightChar] , needCount == haveCount {
                 count += 1

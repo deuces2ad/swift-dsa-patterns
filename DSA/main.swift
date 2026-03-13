@@ -35,6 +35,6 @@ myLinkedList.addAtTail(3)
 myLinkedList.addAtTail(4)
 myLinkedList.addAtTail(5)
 
-
-let ans = isSubsequence("abc", "ahbgdc")
+var arr = [3,3]
+let ans = twoSum(arr, 6)
 print(ans)
