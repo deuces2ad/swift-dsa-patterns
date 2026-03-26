@@ -9,40 +9,40 @@ import Foundation
 
 // MARK: - Phase 1: Next Greater (Forward)
 
-//Final Prices With a Special Discount in a Shop — https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/
+// 1. Final Prices With a Special Discount in a Shop — https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/
 
-//Daily Temperatures — https://leetcode.com/problems/daily-temperatures/
+// 2. Daily Temperatures — https://leetcode.com/problems/daily-temperatures/
 
-//Next Greater Element I — https://leetcode.com/problems/next-greater-element-i/
+// 3. Next Greater Element I — https://leetcode.com/problems/next-greater-element-i/
 
 // MARK: - Phase 2: Next Greater (Circular)
 
-//Next Greater Element II — https://leetcode.com/problems/next-greater-element-ii/
+// 4. Next Greater Element II — https://leetcode.com/problems/next-greater-element-ii/
 
 // MARK: - Phase 3: Stock Span Pattern
 
-//Online Stock Span — https://leetcode.com/problems/online-stock-span/ // ← added
+// 5. Online Stock Span — https://leetcode.com/problems/online-stock-span/ // ← added
 
 // MARK: - Phase 4: String Greedy Stack
 
-//Remove K Digits — https://leetcode.com/problems/remove-k-digits/ // ← revisit from Greedy
+// 6. Remove K Digits — https://leetcode.com/problems/remove-k-digits/ // ← revisit from Greedy
 
-//Remove Duplicate Letters — https://leetcode.com/problems/remove-duplicate-letters/ // ← added
+// 7. Remove Duplicate Letters — https://leetcode.com/problems/remove-duplicate-letters/ // ← added
 
 // MARK: - Phase 5: Previous Smaller / Greater
 
-//132 Pattern — https://leetcode.com/problems/132-pattern/ // ← added
+// 8. 132 Pattern — https://leetcode.com/problems/132-pattern/ // ← added
 
-//Sum of Subarray Minimums — https://leetcode.com/problems/sum-of-subarray-minimums/
+// 9. Sum of Subarray Minimums — https://leetcode.com/problems/sum-of-subarray-minimums/
 
-//Sum of Subarray Ranges — https://leetcode.com/problems/sum-of-subarray-ranges/ // ← added
+// 10. Sum of Subarray Ranges — https://leetcode.com/problems/sum-of-subarray-ranges/ // ← added
 
 // MARK: - Phase 6: Histogram / Area
 
-//Largest Rectangle in Histogram — https://leetcode.com/problems/largest-rectangle-in-histogram/
+// 11. Largest Rectangle in Histogram — https://leetcode.com/problems/largest-rectangle-in-histogram/
 
-//Maximal Rectangle — https://leetcode.com/problems/maximal-rectangle/ // ← added
+// 12. Maximal Rectangle — https://leetcode.com/problems/maximal-rectangle/ // ← added
 
 // MARK: - Phase 7: Revisit
 
-//Trapping Rain Water — https://leetcode.com/problems/trapping-rain-water/ // ← revisit from Two Pointer
+// 13. Trapping Rain Water — https://leetcode.com/problems/trapping-rain-water/ // ← revisit from Two Pointer

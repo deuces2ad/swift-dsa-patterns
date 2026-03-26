@@ -9,32 +9,32 @@ import Foundation
 
 // MARK: - Phase 1: Basic Merge
 
-//Meeting Rooms I — https://leetcode.com/problems/meeting-rooms/ // ← added
+// 1. Meeting Rooms I — https://leetcode.com/problems/meeting-rooms/ // ← added
 
-//Merge Intervals — https://leetcode.com/problems/merge-intervals/
+// 2. Merge Intervals — https://leetcode.com/problems/merge-intervals/
 
-//Insert Interval — https://leetcode.com/problems/insert-interval/
+// 3. Insert Interval — https://leetcode.com/problems/insert-interval/
 
 // MARK: - Phase 2: Greedy Interval
 
-//Non-overlapping Intervals — https://leetcode.com/problems/non-overlapping-intervals/ // ← revisit from Greedy
+// 4. Non-overlapping Intervals — https://leetcode.com/problems/non-overlapping-intervals/ // ← revisit from Greedy
 
-//Minimum Number of Arrows to Burst Balloons — https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/ // ← revisit from Greedy
+// 5. Minimum Number of Arrows to Burst Balloons — https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/ // ← revisit from Greedy
 
 // MARK: - Phase 3: Two Pointer on Intervals
 
-//Interval List Intersections — https://leetcode.com/problems/interval-list-intersections/ // ← added
+// 6. Interval List Intersections — https://leetcode.com/problems/interval-list-intersections/ // ← added
 
 // MARK: - Phase 4: Interval + Heap
 
-//Meeting Rooms II — https://leetcode.com/problems/meeting-rooms-ii/
+// 7. Meeting Rooms II — https://leetcode.com/problems/meeting-rooms-ii/
 
-//Employee Free Time — https://leetcode.com/problems/employee-free-time/ // ← added
+// 8. Employee Free Time — https://leetcode.com/problems/employee-free-time/ // ← added
 
 // MARK: - Phase 5: Interval + Difference Array Bridge
 
-//Car Pooling — https://leetcode.com/problems/car-pooling/ // ← added
+// 9. Car Pooling — https://leetcode.com/problems/car-pooling/ // ← added
 
 // MARK: - Phase 6: Hard
 
-//Minimum Interval to Include Each Query — https://leetcode.com/problems/minimum-interval-to-include-each-query/ // ← added
+// 10. Minimum Interval to Include Each Query — https://leetcode.com/problems/minimum-interval-to-include-each-query/ // ← added

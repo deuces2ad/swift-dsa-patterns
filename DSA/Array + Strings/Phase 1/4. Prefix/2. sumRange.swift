@@ -6,13 +6,13 @@
 //
 
 import Foundation
-func sumRange(_ left: Int, _ right: Int) -> Int {
-    var prefixSum = 0
-    if right <= arr.count - 1 {
-        for i in left...right {
-            prefixSum += arr[i]
-        }
-        return prefixSum
-    }
-    return prefixSum
-}
+//func sumRange(_ left: Int, _ right: Int) -> Int {
+//    var prefixSum = 0
+//    if right <= arr.count - 1 {
+//        for i in left...right {
+//            prefixSum += arr[i]
+//        }
+//        return prefixSum
+//    }
+//    return prefixSum
+//}

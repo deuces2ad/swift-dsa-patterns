@@ -28,16 +28,6 @@ import Foundation
 //
 //print(ans)
 
-let myLinkedList = LinkedList()
-myLinkedList.addAtTail(1)
-myLinkedList.addAtTail(2)
-myLinkedList.addAtTail(3)
-myLinkedList.addAtTail(4)
-myLinkedList.addAtTail(5)
-
-var arr = [1,2,3]
-let ans = subarraySumII(arr, 3)
+let ans = maxProfitII([7,1,5,3,6,4])
 print(ans)
-//Input: nums1 = [4,9,5], nums2 = [9,4,9,8,4]
-//Output: [9,4]
 
