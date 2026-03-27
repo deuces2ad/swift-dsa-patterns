@@ -11,7 +11,7 @@ func jumpGameII(_ arr: [Int]) -> Int {
     var coverage = 0
     var totalJumps = 0
     var lastJumpIndex = 0
-    var destination = arr.count - 1
+    let destination = arr.count - 1
     for i in 0..<arr.count {
         coverage = max(coverage, arr[i])
         
