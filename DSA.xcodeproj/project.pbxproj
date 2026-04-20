@@ -6,10 +6,6 @@
 	objectVersion = 77;
 	objects = {
 
-/* Begin PBXBuildFile section */
-		E2122D3D2F740E240010FFC2 /* DSA Study Plan - March 25 to May 31.swift in Sources */ = {isa = PBXBuildFile; fileRef = E2122D3C2F740E240010FFC2 /* DSA Study Plan - March 25 to May 31.swift */; };
-/* End PBXBuildFile section */
-
 /* Begin PBXCopyFilesBuildPhase section */
 		E206566C2F44B36000E6B409 /* CopyFiles */ = {
 			isa = PBXCopyFilesBuildPhase;
@@ -24,15 +20,14 @@
 
 /* Begin PBXFileReference section */
 		E206566E2F44B36000E6B409 /* DSA */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = DSA; sourceTree = BUILT_PRODUCTS_DIR; };
-		E2122D3C2F740E240010FFC2 /* DSA Study Plan - March 25 to May 31.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "DSA Study Plan - March 25 to May 31.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
 		E245D2D52F7F7C120009D419 /* Exceptions for "DSA" folder in "DSA" target */ = {
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
 			membershipExceptions = (
-				"Array + Strings/Phase 3/8. LinkedList/0_Linked_List.swift",
-				"Graph,DP,/0 Trie.swift",
+				"Patterns/Phase 2/8. LinkedList/0_Linked_List.swift",
+				"Patterns/Phase 3/11. Graph/0 Trie.swift",
 			);
 			target = E206566D2F44B36000E6B409 /* DSA */;
 		};
@@ -63,7 +58,6 @@
 		E20656652F44B36000E6B409 = {
 			isa = PBXGroup;
 			children = (
-				E2122D3C2F740E240010FFC2 /* DSA Study Plan - March 25 to May 31.swift */,
 				E20656702F44B36000E6B409 /* DSA */,
 				E206566F2F44B36000E6B409 /* Products */,
 			);
@@ -141,7 +135,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				E2122D3D2F740E240010FFC2 /* DSA Study Plan - March 25 to May 31.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

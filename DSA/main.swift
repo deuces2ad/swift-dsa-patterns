@@ -30,22 +30,11 @@ import Foundation
 
 
 // Swift — tujhe manually Sequence + IteratorProtocol implement karna padta
-struct CountUp: Sequence, IteratorProtocol {
-    var current = 0
-    let limit: Int
-    
-    mutating func next() -> Int? {
-        guard current < limit else { return nil }
-        defer {
-            print("runnimg defer")
-            current += 1
-        }
-        return current
-    }
-}
-let counter = CountUp(limit: 3)
+let heapify = Heapify(heap: [])
+heapify.insert(1)
+heapify.insert(0)
+heapify.insert(10)
+heapify.insert(40)
 
-for value in counter {
-    print(value)
-}
+
 
