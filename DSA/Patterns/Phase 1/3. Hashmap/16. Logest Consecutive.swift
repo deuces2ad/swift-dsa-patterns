@@ -9,7 +9,7 @@ import Foundation
 
 func longestConsecultive( _ arr: [Int]) -> Int {
     var map: [Int: Bool] = [:]
-    var maxLength = Int.min
+    var maxLength = 1
    
     for num in arr {
         map[num] = false

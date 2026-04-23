@@ -119,3 +119,22 @@ import Foundation
 //[39] Product of Array Except Self — https://leetcode.com/problems/product-of-array-except-self/ // ← added | Amazon, Facebook | prefix × suffix two-pass
 
 //[40] Minimum Difference Between Highest and Lowest of K Scores — https://leetcode.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores/ // ← added | sort + fixed window
+
+
+//Neetcode ke links ye hain:
+//
+//| # | Problem | Link |
+//|---|---------|------|
+//| 1 | Valid Palindrome | https://neetcode.io/problems/is-palindrome |
+//| 2 | Two Sum II | https://neetcode.io/problems/two-integer-sum-ii |
+//| 3 | 3Sum | https://neetcode.io/problems/three-integer-sum |
+//| 4 | Container With Most Water | https://neetcode.io/problems/max-water-container |
+//| 5 | Trapping Rain Water | https://neetcode.io/problems/trapping-rain-water |
+//| 6 | Is Subsequence | https://neetcode.io/problems/is-subsequence |
+//| 7 | Move Zeroes | https://neetcode.io/problems/move-zeroes |
+//| 8 | Remove Duplicates from Sorted Array | https://neetcode.io/problems/remove-duplicates-from-sorted-array
+//| 9 | Sort Colors | https://neetcode.io/problems/sort-colors |
+//| 10 | 4Sum | https://neetcode.io/problems/four-sum |
+//| 11 | Boats to Save People | https://neetcode.io/problems/boats-to-save-people |
+//| 12 | Squares of a Sorted Array | https://neetcode.io/problems/squares-of-a-sorted-array |
+//

@@ -61,7 +61,7 @@ class Solution {
         for char in t {
             have[char, default: 0] += 1
         }
-        var requiredCount = have.keys.count
+        let requiredCount = have.keys.count
         var count = 0
         var left = 0
         var right = 0
